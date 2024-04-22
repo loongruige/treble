@@ -59,3 +59,23 @@ adb reboot bootloader
 fastboot flash boot twrp
 ```
 After this is done, hold vol- and power, then hold vol+ and powers release power when logo
+
+## Tested GSI
+
+```
+[➕] Working
+[➖] Not working
+[〰️] Problems, see below
+[🟰] To be tried
+```
+
+Name | Ver | Provider | Device | Status
+----:|:---:|:--------:|:------:|:------
+AOSP | 13 | PhhGSI | GM 8 d | ➕〰️1
+AOSP | 9  | PhhGSI | GM 8   | ➕
+LAVA LXX503 didoOS | GM 8 d| 13 | MysticGSI | 〰️2🟰
+Flyme | 13 | NipponGSI | GM 8 d | 〰️2🟰
+OMIX X500 | 11 | MysticGSI | GM 8 d| 🟰
+
+1: Camera won't work
+2: Image too large, won't work with uneven partition sizes, see "System partition resizing"
