@@ -22,6 +22,8 @@ Device is ARM64 Legacy A/B
 
 FLASHING S STOCK QFIL TO D FOR UNBRICK WILL WORK, FASTBOOT FLASH D ROM TO GET DUAL (haven't tested dual rom after single qfil, may damage 2nd IMEI)
 
+MY TESTING UNITS ARE 3/32 S AND 3/32 D, CONTACT IF TESTING NEEDED : (mailto:xpazr@yaani.com)[MAIL]
+
 ## GSI flashing steps
 ```
 fastboot flash system gsi.img 
@@ -48,6 +50,7 @@ name 26 system_b
 quit
 ```
 Doesn't work, you system_a and system_b probably has to be the same size
+
 TODO: remove all partitions until system, then remove system, resize system to be 5gb each, recreate all other partition with offset, remove remaining from userdata
 
 ## Custom recovery
