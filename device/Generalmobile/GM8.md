@@ -39,7 +39,7 @@ adb reboot recovery
 adb push parted /sbin
 adb shell
 chmod +x /sbin/parted
-parted
+parted /dev/block/mmcblk00
 p
 rm 25
 rm 26
