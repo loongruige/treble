@@ -1,3 +1,5 @@
+# General Mobile GM 22 Plus
+
 | Device                  | General Mobile GM 22 Plus                                   |
 | ----------------------- | :---------------------------------------------------------- |
 | Chipset                 | MediaTek Helio G80 (MT6768/CU)                              |                                 
