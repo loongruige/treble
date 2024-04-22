@@ -22,7 +22,7 @@ Device is ARM64 Legacy A/B
 
 FLASHING S STOCK QFIL TO D FOR UNBRICK WILL WORK, FASTBOOT FLASH D ROM TO GET DUAL (haven't tested dual rom after single qfil, may damage 2nd IMEI)
 
-MY TESTING UNITS ARE 3/32 S AND 3/32 D, CONTACT IF TESTING NEEDED : (mailto:xpazr@yaani.com)[MAIL]
+MY TESTING UNITS ARE 3/32 S AND 3/32 D, CONTACT IF TESTING NEEDED : xpazr@yaani.com
 
 ## GSI flashing steps
 ```
