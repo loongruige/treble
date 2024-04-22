@@ -56,7 +56,7 @@ TODO: remove all partitions until system, then remove system, resize system to b
 ## Custom recovery
 ```
 adb reboot bootloader
-fastboot flash boot twrp
+fastboot flash boot twrp.img
 ```
 After this is done, hold vol- and power, then hold vol+ and powers release power when logo
 
