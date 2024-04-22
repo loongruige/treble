@@ -28,7 +28,9 @@ fastboot --disable-verity --disable-verification flash vbmeta_b vbmeta_b.img
 
 ## Tested GSI
 Flyme 13 SIM won't work
+
 DerpFest 14 Fingerprint won't work
+
 Pixel Experience 13 Fingerprint won't work
 
 
