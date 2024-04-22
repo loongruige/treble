@@ -73,7 +73,7 @@ Name | Ver | Provider | Device | Status
 ----:|:---:|:--------:|:------:|:------
 AOSP | 13 | PhhGSI | GM 8 d | ➕〰️1
 AOSP | 9  | PhhGSI | GM 8   | ➕
-LAVA LXX503 didoOS | GM 8 d| 13 | MysticGSI | 〰️2🟰
+LAVA LXX503 didoOS | 13 | MysticGSI | GM 8 d | 〰️2🟰
 Flyme | 13 | NipponGSI | GM 8 d | 〰️2🟰
 OMIX X500 | 11 | MysticGSI | GM 8 d| 🟰
 
